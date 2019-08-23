@@ -29,13 +29,16 @@
 # Headers rule example
 # For more information see:- https://www.netlify.com/docs/netlify-toml-reference/
 
-#[[headers]]
+[[headers]]
 #   Define which paths this specific [[headers]] block will cover.
-#   for = "/*"
+   for = "/*"
 
-#[headers.values]
-#   X-Frame-Options = "DENY"
-#   X-XSS-Protection = "1; mode=block"
-#   Content-Security-Policy = "frame-ancestors https://www.facebook.com"
+[headers.values]
+   X-Frame-Options = "DENY"
+   X-XSS-Protection = "1; mode=block"
+   X-Content-Type-Options = "nosniff"
+   X-Feature-Policy = "geolocation 'none'"
+   Referrer-Policy = "no-referrer-when-downgrade"
+
 
 # For more information see:- https://www.netlify.com/docs/netlify-toml-reference/
