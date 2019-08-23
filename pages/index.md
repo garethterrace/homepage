@@ -3,10 +3,9 @@ layout: home
 title: Welcome
 permalink: /
 section: home
-intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+intro_paragraph: >-
+  I've hacked this together in a few minutes thanks to Netlify - hopefully I'll
+  get to style it and add some content before it goes out my head and I have to
+  start again on another platform.
 ---
+
