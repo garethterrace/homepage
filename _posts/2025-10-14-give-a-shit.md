@@ -6,7 +6,7 @@ date: '2025-10-14 11:41:31'
 intro_paragraph: ''
 ---
 
-# You cant just buy a company
+# You can't just buy a company
 
 I get it, buying software companies is a nice way to get more market share and it gives you access to all sorts of juicy new customers you can "cross sell" to. Makes perfect sense, great.
 
