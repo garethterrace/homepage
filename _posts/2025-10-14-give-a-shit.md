@@ -2,7 +2,7 @@
 layout: post
 title: The power of giving a shit
 author: gareth_terrace
-date: '2025-10-44 11:41:31'
+date: '2025-10-14 11:41:31'
 intro_paragraph: ''
 ---
 
