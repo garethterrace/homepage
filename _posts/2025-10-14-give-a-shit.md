@@ -24,10 +24,10 @@ The excitement is what matters. Good founders can get people enthused by a todo 
 
 Enthusiastic founders make for enthusiastic employees and successful products - it's why Basecamp gets so many applications for work from what is essentially a pretty vanilla app (and one I love). Nobody finishes a CS degree and says "oooh I can't wait to work on project management software" - it's decidedly *un*sexy and yet people apply in their droves.  That's the power of **giving a shit**. That's all it needs, you can have the biggest, best teams in the world but unless you give a shit, the output will be [terrible](https://www.atlassian.com/software/jira).
 
-Founders have to move on, that's fine, but to keep the magic alive you've got to replace them with people who are equally enthusiastic about solving the same problems in the same way.
+Founders have to move on, that's a fact of life. But to keep the magic alive you've got to replace them with people who are equally enthusiastic about solving the same problems in the same way.
 
 And you can't
 
 Because those people are all out solving those problems with their own teams, in their own way.
 
-Don't underestimage the power of giving a shit.
+Don't underestimate the power of giving a shit and the value it brings.
