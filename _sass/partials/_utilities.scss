@@ -64,25 +64,35 @@ img {
 }
 
 pre {
-	background-color: $grey-bg-color;
-	border-radius: 0.3rem;
-	padding: 1rem;
+	background-color: var(--grey-bg-color);
+	border-radius: 0.4rem;
+	padding: 1.2rem;
+	overflow-x: auto;
 }
 
 code {
-	background-color: $grey-bg-color;
+	background-color: var(--grey-bg-color);
   padding: 0.2rem 0.4rem;
+  border-radius: 0.3rem;
+}
+
+pre code {
+  background-color: transparent;
+  padding: 0;
 }
 
 ::selection {
-  background-color: $selection-bg-color;
+  background-color: var(--selection-bg-color);
 }
 
 input,
 textarea {
-	border: 0.05em solid $hairline-color;
+	border: 0.1rem solid var(--hairline-color);
+	background-color: var(--bg-color);
+	color: var(--text-color);
+	border-radius: 0.4rem;
 	&:focus {
-		border: 0.05em solid $text-color;
+		border-color: var(--text-color);
 	}
 }
 

@@ -1,9 +1,18 @@
 # Everything you need to know about configuring the CMS can be found here:-
-# https://www.netlifycms.org/docs/configuration-options/
+# https://decapcms.org/docs/configuration-options/
+
+# When the CMS is opened on localhost AND `npx decap-server` is running
+# alongside `jekyll serve`, it talks to that local proxy instead of GitHub -
+# no OAuth needed, changes are written straight to your working copy.
+# See README.md "Local development" for how to use this.
+local_backend: true
 
 backend:
-  name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
+  name: github # Talks directly to the GitHub API
+  repo: garethterrace/homepage # GitHub owner/repo
   branch: master # Branch to update (master by default)
+  base_url: https://decap-cms-oauth.garethterrace.workers.dev # Cloudflare Worker OAuth relay, see cms-oauth-worker/README.md
+  auth_endpoint: auth
 
 media_folder: "assets/img/uploads" # Folder where user uploaded files should go
 

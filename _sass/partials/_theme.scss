@@ -1,0 +1,29 @@
+// CSS custom properties, so colours can switch with the user's OS theme
+// without a second SASS build. The SASS variables in _variables.scss hold
+// the light (default) values; dark values are overridden below.
+
+:root {
+  --text-color: #{$text-color};
+  --text-muted-color: #{$text-muted-color};
+  --bg-color: #{$bg-color};
+  --brand-color: #{$brand-color};
+  --link-color: #{$link-color};
+  --link-hover-color: #{$link-hover-color};
+  --grey-bg-color: #{$grey-bg-color};
+  --hairline-color: #{$hairline-color};
+  --selection-bg-color: #{$selection-bg-color};
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: rgb(230, 230, 230);
+    --text-muted-color: rgb(150, 150, 150);
+    --bg-color: rgb(20, 20, 22);
+    --brand-color: rgb(20, 20, 22);
+    --link-color: rgb(110, 180, 210);
+    --link-hover-color: rgb(150, 205, 230);
+    --grey-bg-color: rgb(30, 30, 33);
+    --hairline-color: rgb(50, 50, 54);
+    --selection-bg-color: rgba(255, 210, 90, 0.25);
+  }
+}
