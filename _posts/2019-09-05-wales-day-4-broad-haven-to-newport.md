@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Wales Day 4: Broad Haven to Newport'
-author: gareth_terrace
+author: Gareth Terrace
 date: '2019-09-05 14:28:01'
-intro_paragraph: |-
-  * Start point: Broad Haven YHA
-  * End Point: Newport YHA
+categories: travel
 ---
+* Start point: Broad Haven YHA
+* End point: Newport YHA
+
 YHA was a good shout, quality sleep, decent WiFi and so far the best breakfast. Fairly easy cycling in terms of distance to Newport but it was very hilly. I'm getting better at hills now, I can definitely feel some power building when I need to lump up a 12% gradient and it's definitely more interesting than bumbling along the flats for 4 hours. Arrived here about 3 and the YHA at Newport is closed (and tiny in comparison) so I'm hoping it opens at 5. If it doesn't then I'm in for a very unfortunate last minute rework of accommodation. 
 
 I think they'd had a lot of cancellations on account of the showers being cold - I was a bit worried about having a cold shower but it was perfectly tolerable.  I wouldn't call it a luxury shower but it wasn't mains water cold, just....not hot.  Bike storage here was pretty good - they had sheffield stands inside a locked shed and although the code wasn't very original I felt like they'd not really had any crime around Newport in a long time.

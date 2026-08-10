@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The power of giving a shit
-author: gareth_terrace
+author: Gareth Terrace
 date: '2025-10-14 11:41:31'
-intro_paragraph: ''
+categories: business
 ---
 
 # You can't just buy a company

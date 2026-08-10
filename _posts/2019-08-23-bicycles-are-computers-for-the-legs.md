@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bicycles are computers for the legs.
-author: gareth_terrace
+author: Gareth Terrace
 date: '2019-08-23 17:41:31'
-intro_paragraph: ''
+categories: cycling
 ---
 Says Steve Jobs....or something similar.
 

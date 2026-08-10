@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Working with Microsoft is hard.
-author: gareth_terrace
+author: Gareth Terrace
 date: '2024-03-24 17:41:31'
-intro_paragraph: ''
+categories: tech
 ---
 
 # Working with Microsoft is hard

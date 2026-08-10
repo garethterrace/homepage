@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Wales Day 5: Newport to Aberystwyth'
-author: gareth_terrace
+author: Gareth Terrace
 date: '2019-09-05 14:36:20'
-intro_paragraph: |-
-  Start Point: Newport YHA
-
-  End Point: Aberystwyth Premier Inn
+categories: travel
 ---
-It's Day 5 now. We're going to hit half way!
+* Start point: Newport YHA
+* End point: Aberystwyth Premier Inn
+
+It's Day 5 now. We're going to hit half way!
 
 
 

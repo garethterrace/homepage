@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Wales Day 3: Laugharne to Broad Haven'
-author: gareth_terrace
+author: Gareth Terrace
 date: '2019-08-23 17:41:31'
-intro_paragraph: |-
-  * Start point: Laugharne
-  * End point: Broad Haven
+categories: travel
 ---
+* Start point: Laugharne
+* End point: Broad Haven
+
 Woke up at 5am paranoid I'd left my multi tool (and spare cash) at the pub. Gonna have to double check it's still with me or find a way to get it if they've got it.  It'd be a 120 mile round trip (with two stints on the A40) to get it if I've left it. Might be cheaper and quicker to just buy another one or get it posted. Hnnnngh, hope it's on the bike.
 
 WiFi here is poo!
