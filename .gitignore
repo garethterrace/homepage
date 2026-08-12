@@ -2,3 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 .users.yml
+CLAUDE.local.md
+node_modules/
