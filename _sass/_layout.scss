@@ -17,6 +17,13 @@ html, body {
 	margin: 0;
 	padding: 0;
 	width: 100%;
+	height: 100%;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
 }
 
 ol.default {
@@ -214,6 +221,7 @@ pre code.hljs {
 *	Body
 */
 .page-content {
+	flex: 1 0 auto;
 	// Remove this to make header scrollable again
 	margin-top: 66px;
 	.wrapper {
@@ -373,7 +381,8 @@ pre code.hljs {
 */
 .site-footer {
 	$link-color: $white;
-	padding: 1em 1em 2em 1em;
+	flex-shrink: 0;
+	padding: 0.5em 1em;
 	background-color: $highlight-color;
 	color: $white;
 	a {
@@ -391,23 +400,21 @@ pre code.hljs {
 	.wrapper {
 		@include outer-container;
 	}
-	.footer-heading {
-
-	}
 	/*
-	*	Site Navigation (left)
+	*	Site Navigation
 	*/
 	.site-navigation {
-		@include span-columns(12);
-		@include media ($mobile) {
-			@include span-columns(6);
-		}
-		@include media ($tablet) {
-			@include span-columns(4);
-		}
-		font-size: 0.9em;
+		font-size: 0.85em;
+		text-align: center;
 		ul {
 			@extend %default-ul;
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			margin: 0;
+			li {
+				margin: 0 0.75em;
+			}
 		}
 	}
 	/*

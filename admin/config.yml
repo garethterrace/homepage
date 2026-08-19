@@ -60,3 +60,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Permalink", name: "permalink", widget: "hidden", default: "/posts/"}
           - {label: "Show in nav", name: "main_nav", widget: "hidden", default: true}
           - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Projects"
+        name: "projects"
+        file: "projects.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+          - {label: "Permalink", name: "permalink", widget: "hidden", default: "/projects/"}
+          - {label: "Show in nav", name: "main_nav", widget: "hidden", default: true}
+          - {label: "Body", name: "body", widget: "markdown"}
